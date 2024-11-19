@@ -1,0 +1,1 @@
+# qrbar-scanner-app
